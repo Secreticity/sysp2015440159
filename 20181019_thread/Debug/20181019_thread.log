@@ -1,0 +1,10 @@
+﻿  thread.cpp
+g:\users\administrator\desktop\sys_programming\2015440159김정용\20181019_thread\thread.cpp(53): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'LPVOID'입니다.
+g:\users\administrator\desktop\sys_programming\2015440159김정용\20181019_thread\thread.cpp(53): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'LPVOID'입니다.
+g:\users\administrator\desktop\sys_programming\2015440159김정용\20181019_thread\thread.cpp(53): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'LPVOID'입니다.
+g:\users\administrator\desktop\sys_programming\2015440159김정용\20181019_thread\thread.cpp(53): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 4의 형식이 'LPVOID'입니다.
+g:\users\administrator\desktop\sys_programming\2015440159김정용\20181019_thread\thread.cpp(53): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 5의 형식이 'LPVOID'입니다.
+g:\users\administrator\desktop\sys_programming\2015440159김정용\20181019_thread\thread.cpp(53): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 6의 형식이 'LPVOID'입니다.
+g:\users\administrator\desktop\sys_programming\2015440159김정용\20181019_thread\thread.cpp(53): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 7의 형식이 'LPVOID'입니다.
+g:\users\administrator\desktop\sys_programming\2015440159김정용\20181019_thread\thread.cpp(53): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 8의 형식이 'LPVOID'입니다.
+  20181019_thread.vcxproj -> G:\Users\Administrator\Desktop\sys_programming\2015440159김정용\Debug\20181019_thread.exe
