@@ -1,0 +1,3 @@
+﻿  소스.cpp
+g:\users\administrator\desktop\sys_programming\2015440159김정용\20181026racecondition\소스.cpp(142): warning C4101: 'criticalSection' :참조되지 않은 지역 변수입니다.
+  20181026racecondition.vcxproj -> G:\Users\Administrator\Desktop\sys_programming\2015440159김정용\Debug\20181026racecondition.exe
